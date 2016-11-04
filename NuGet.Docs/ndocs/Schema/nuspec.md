@@ -163,7 +163,8 @@ These elements must appear within a &lt;metadata&gt; element.
 <table>
         <tr>
             <td><strong>packageTypes</strong></td>
-            <td><em>(3.3+)</em> A collection of zero or more &lt;packageType&gt; elements specifying the type of the package if other than a traditional dependency package. Each packageType has attributes of <em>name</em> and <em>verion</em>. See <a href="../create-packages/creating-a-package#setting-a-package-type">Setting a package type</a>.
+            <td><em>(3.3+)</em> A collection of zero or more &lt;packageType&gt; elements specifying the type of the package if other than a traditional dependency package. Each packageType has 
+	    s of <em>name</em> and <em>verion</em>. See <a href="../create-packages/creating-a-package#setting-a-package-type">Setting a package type</a>.
             </td>
         </tr>
         <tr>
@@ -430,7 +431,7 @@ Each &lt;file&gt; element specifies the following attributes:
 
 <table class="reference">
     <tr>
-        <th>Attriute</th>
+        <th>Attribute</th>
         <th>Description</th>
     </tr>
     <tr>
